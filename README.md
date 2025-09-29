@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Antonio Carlos
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
-Me chamo Antonio Carlos, tenho 21 anos
+Sou desenvolvedor web com foco na criação de landing pages e pequenos sites personalizados. Meu objetivo é entregar soluções digitais que unam design atrativo, funcionalidade e alta performance, sempre alinhadas às necessidades e à identidade de cada cliente. Trabalho com atenção aos detalhes, garantindo que cada projeto seja responsivo, otimizado e pronto para gerar resultados reais.
 
 
 ### 🤖 Linguagens e Tecnologias
