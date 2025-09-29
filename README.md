@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Antonio Carlos
+# 👨‍💻 Antonio Carlos
 
 **`Desenvolvedor Front-End`**
 
