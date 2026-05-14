@@ -1,35 +1,68 @@
 # 👨‍💻 Antonio Carlos
 
-**`Desenvolvedor Front-End`**
+**`Análise de Dados | Processos | Power BI | Python`**
 
-Sou desenvolvedor web com foco na criação de landing pages e pequenos sites personalizados. Meu objetivo é entregar soluções digitais que unam design atrativo, funcionalidade e alta performance, sempre alinhadas às necessidades e à identidade de cada cliente. Trabalho com atenção aos detalhes, garantindo que cada projeto seja responsivo, otimizado e pronto para gerar resultados reais.
+Sou Analista de Dados, Analista de Processos e Melhoria Contínua, com foco em transformar dados e processos em soluções estratégicas para gerar eficiência, produtividade e melhores resultados. Tenho conhecimento em Power BI, Python, análise de indicadores e otimização de processos, atuando com atenção aos detalhes para identificar oportunidades de melhoria e apoiar a tomada de decisão.
+
+Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six Sigma, o que me permite trabalhar com métodos ágeis, gestão de projetos, análise de causa raiz e melhoria contínua. Meu objetivo é entregar soluções baseadas em dados, alinhadas às necessidades do negócio e capazes de gerar resultados reais e mensuráveis.
 
 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Power BI"
+    title="Power BI" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Pandas"
+    title="Pandas - Análise de Dados" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="NumPy"
+    title="NumPy - Dados e Cálculos" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jupyter"
+    title="Jupyter Notebook - Análise de Dados" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Jira"
+    title="Jira - Processos e Metodologia Ágil" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/>
+
+<br clear="left"/>
 
 
