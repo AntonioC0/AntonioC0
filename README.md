@@ -9,6 +9,7 @@ Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six S
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="Python"
@@ -45,23 +46,6 @@ Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six S
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Jupyter"
-    title="Jupyter Notebook - Análise de Dados" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Jira"
-    title="Jira - Processos e Metodologia Ágil" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-/>
 
 <br clear="left"/>
 
