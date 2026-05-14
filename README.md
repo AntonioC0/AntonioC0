@@ -9,6 +9,7 @@ Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six S
 
 ### 🤖 Linguagens e Tecnologias
 
+<br clear="left"/>
 
 <img 
     align="left" 
