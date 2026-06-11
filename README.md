@@ -1,4 +1,4 @@
-# 👨‍💻 Antonio Carlos
+# Antonio Carlos
 
 **`Análise de Dados | Processos | Power BI | Python`**
 
