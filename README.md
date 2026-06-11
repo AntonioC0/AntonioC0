@@ -7,7 +7,7 @@ Sou Analista de Dados, Analista de Processos e Melhoria Contínua, com foco em t
 Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six Sigma, o que me permite trabalhar com métodos ágeis, gestão de projetos, análise de causa raiz e melhoria contínua. Meu objetivo é entregar soluções baseadas em dados, alinhadas às necessidades do negócio e capazes de gerar resultados reais e mensuráveis.
 
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 
 <img 
