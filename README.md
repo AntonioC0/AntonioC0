@@ -49,48 +49,6 @@ Atualmente atuo com análise de dados, desenvolvimento de dashboards, automaçã
     src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
 />
 
-<img
-    alt="SQL Server"
-    title="SQL Server"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-/>
-
-<img
-    alt="C#"
-    title="C#"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-/>
-
-<img
-    alt="Blazor"
-    title="Blazor"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg"
-/>
-
-<img
-    alt=".NET"
-    title=".NET"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
-/>
-
-<img
-    alt="Git"
-    title="Git"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-
-<img
-    alt="VS Code"
-    title="VS Code"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
-
 </p>
 
 ---
