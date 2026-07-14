@@ -27,28 +27,14 @@ Atualmente atuo com análise de dados, desenvolvimento de dashboards, automaçã
 - Green Belt – Lean Six Sigma
 - Scrum Fundamentals Certified
 - Python para Análise de Dados
-- Power BI
 
 ---
 
 ## 🛠 Tecnologias
 
 <p align="left">
-
-<img
-    alt="Python"
-    title="Python"
-    width="42"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-<img
-    alt="Power BI"
-    title="Power BI"
-    width="34"
-    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
-/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" title="Power BI" width="42"/>
 </p>
 
 ---
