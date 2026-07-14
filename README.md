@@ -1,34 +1,109 @@
-# Antonio Carlos
+# 👋 Olá, eu sou Antonio Carlos
 
-**`Análise de Dados | Processos | Power BI | Python`**
+### Analista de Dados | Business Intelligence | Processos | Power BI | Python
 
-Sou Analista de Dados, Analista de Processos e Melhoria Contínua, com foco em transformar dados e processos em soluções estratégicas para gerar eficiência, produtividade e melhores resultados. Tenho conhecimento em Power BI, Python, análise de indicadores e otimização de processos, atuando com atenção aos detalhes para identificar oportunidades de melhoria e apoiar a tomada de decisão.
+Transformo dados e processos em soluções estratégicas para apoiar a tomada de decisão, aumentar a eficiência operacional e gerar resultados para o negócio.
 
-Possuo formação em metodologia Scrum e certificação Green Belt em Lean Six Sigma, o que me permite trabalhar com métodos ágeis, gestão de projetos, análise de causa raiz e melhoria contínua. Meu objetivo é entregar soluções baseadas em dados, alinhadas às necessidades do negócio e capazes de gerar resultados reais e mensuráveis.
+Atualmente atuo com análise de dados, desenvolvimento de dashboards, automação de processos e desenvolvimento de soluções internas, unindo Business Intelligence, programação e melhoria contínua para transformar informações em ações.
 
+---
 
-### Linguagens e Tecnologias
+## 🚀 Áreas de atuação
 
+- 📊 Business Intelligence (Power BI)
+- 🐍 Análise e Automação com Python
+- 📈 Desenvolvimento de Dashboards e KPIs
+- ⚙️ Melhoria Contínua e Otimização de Processos
+- 🔄 Automação de Rotinas
+- 📋 Gestão por Indicadores
+- 💡 Desenvolvimento de Sistemas Internos
+- 📑 Lean Six Sigma
+- 🚀 Scrum
 
-<img 
-    align="left" 
+---
+
+## 🎓 Certificações
+
+- Green Belt – Lean Six Sigma
+- Scrum Fundamentals Certified
+- Python para Análise de Dados
+- Power BI
+
+---
+
+## 🛠 Tecnologias
+
+<p align="left">
+
+<img
     alt="Python"
-    title="Python" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    title="Python"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 
-<img 
-    align="left" 
+<img
     alt="Power BI"
-    title="Power BI" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" 
+    title="Power BI"
+    width="34"
+    src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"
 />
 
+<img
+    alt="SQL Server"
+    title="SQL Server"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+/>
 
-<br clear="left"/>
+<img
+    alt="C#"
+    title="C#"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+/>
 
+<img
+    alt="Blazor"
+    title="Blazor"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg"
+/>
 
+<img
+    alt=".NET"
+    title=".NET"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+/>
+
+<img
+    alt="Git"
+    title="Git"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img
+    alt="VS Code"
+    title="VS Code"
+    width="42"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
+
+</p>
+
+---
+
+## 📂 Portfólio
+
+Conheça alguns dos projetos que desenvolvi:
+
+🌐 **Portfólio:**  
+**https://antonioc0.github.io/portifolio/**
+
+---
+
+## 🎯 Objetivo
+
+Busco desenvolver soluções que integrem tecnologia, dados e melhoria contínua para gerar processos mais eficientes, apoiar decisões estratégicas e entregar resultados mensuráveis.
