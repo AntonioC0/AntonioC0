@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Antonio Carlos
 
-### Analista de Dados | Business Intelligence | Processos | Power BI | Python
+### Analista de Dados | Processos | Power BI | Python
 
 Transformo dados e processos em soluções estratégicas para apoiar a tomada de decisão, aumentar a eficiência operacional e gerar resultados para o negócio.
 
@@ -11,6 +11,7 @@ Atualmente atuo com análise de dados, desenvolvimento de dashboards, automaçã
 ## 🚀 Áreas de atuação
 
 - 📊 Business Intelligence (Power BI)
+- ⚙️ Power Platform (Power Apps, Power Automate, Copilot Studio)
 - 🐍 Análise e Automação com Python
 - 📈 Desenvolvimento de Dashboards e KPIs
 - ⚙️ Melhoria Contínua e Otimização de Processos
@@ -24,9 +25,9 @@ Atualmente atuo com análise de dados, desenvolvimento de dashboards, automaçã
 
 ## 🎓 Certificações
 
-- Green Belt – Lean Six Sigma
-- Scrum Fundamentals Certified
-- Python para Análise de Dados
+- Análise e Desenvolvimento de Sistemas - Em andamento
+- Green Belt – Lean Six Sigma - Concluído
+- Metodologia Scrum - Concluído
 
 ---
 
